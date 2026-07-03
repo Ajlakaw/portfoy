@@ -38,9 +38,4 @@ Bu bot, özellikle yazılım projelerini düzenli tutmak ve kişisel portföy ol
 
 ## 🖼️ Ekran Görüntüleri
 
-Buraya botun Discord üzerinde çalışırken alınan ekran görüntülerini ekleyebilirsin.
-
-Örnek:
-
-```markdown
-![Bot ekran görüntüsü](images/bot-screenshot.png)
+bu bilgiye ulaşamazsın gizli bilgi hahahahha
